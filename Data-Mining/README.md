@@ -30,6 +30,6 @@ This repository showcases a comprehensive Data Mining journey during the **ITI I
 * **Goal:** Build a complete end-to-end system to predict customer attrition based on demographics (Age, Tenure, Gender).
 * **Technical Highlights:** Evaluated multiple **Naive Bayes** variants (`Gaussian`, `Multinomial`, `Bernoulli`). Developed a real-time web interface for model inference.
 * **Tools:** `Streamlit`, `Scikit-learn`, `Joblib`.
-* **Live Demo:** [👉 Launch Streamlit App](YOUR_STREAMLIT_LINK_HERE)
+* **Live Demo:** [👉 https://iti-intensive-program-tjaaiaerg7pxpu3ybvddnw.streamlit.app/]
 
 ---
