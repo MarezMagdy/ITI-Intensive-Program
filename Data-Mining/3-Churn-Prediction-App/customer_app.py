@@ -13,8 +13,8 @@ st.write(
 )
 
 try:
-    df = pd.read_excel("churn_dataset.xlsx")
-    model = joblib.load("my_model.pkl")
+    df =pd.read_excel('Data-Mining/3-Churn-Prediction-App/churn_dataset.xlsx')
+    model = joblib.load('Data-Mining/3-Churn-Prediction-App/my_model.pkl')
 except Exception as e:
     st.error(f"Error: Make sure 'churn_dataset.xlsx' and 'my_model.pkl' exist. {e}")
 
